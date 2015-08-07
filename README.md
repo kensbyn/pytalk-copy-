@@ -1,3 +1,4 @@
+#Copied from https://github.com/clifflu/pytalk
 # Py Talk
 
 This is my training material for my PH trip August 05-14, 2015. These are in [IPython Notebook](http://ipython.org/notebook.html) formats, and should be read or compiled from IPython Notebook.
